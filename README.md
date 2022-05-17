@@ -1,4 +1,4 @@
-# EPS USER GUI
+# EPS USER GUI - ALBA SYNCHROTRON
 
 This is a GUI to display EPS-PLC information for users
 
