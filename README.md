@@ -4,6 +4,8 @@ This is a GUI to display EPS-PLC information for users
 
 You can open a taurus trend with the attributes that you select, filter the interlock states
 
+This is the [documentation}(https://drive.google.com/file/d/1aZXq4-Z6I6gcxN3wCQvvx5R5tbDZpj_K/view?usp=sharing) for this project.
+
 **__version__ = "1.0.0"**
 
 Application
